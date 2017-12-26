@@ -1,2 +1,2 @@
 echo 'Hello from build script :-)
-exit 0
+exit 1
