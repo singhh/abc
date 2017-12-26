@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Trigger a build"
+curl -s 'http://localhost:8080/job/abc/build?token=dad
